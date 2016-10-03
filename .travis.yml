@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - '6.1'
+before_script:
+  - 'npm install bulk-decaffeinate'
+  - 'git clone --depth 1 https://github.com/codecombat/codecombat.git'
