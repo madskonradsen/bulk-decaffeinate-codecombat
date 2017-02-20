@@ -8,8 +8,8 @@
   "author": "Mads Konradsen",
   "license": "MIT",
   "dependencies": {
-    "bulk-decaffeinate": "^1.11.0",
-    "decaffeinate": "^2.23.3",
+    "bulk-decaffeinate": "^1.20.1",
+    "decaffeinate": "^2.50.7",
     "eslint": "^3.7.0"
   }
 }
